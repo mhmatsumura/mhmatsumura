@@ -16,12 +16,12 @@
 </div>
 
 ---
-### :fire: Experiências:
+### :fire: Sobre mim e Experiências:
 - 🔨 17 anos como eletricista de distribuição.
 
 - :seedling: Estudando Ciência de dados e Quarkus.
 
-- 🎻🚵‍♂️ No tempo livre aulas de Violino e Mountain Bike.
+- 🎻 No tempo livre aulas de Violino e Mountain Bike. 🚵‍
 
 - :mailbox:Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-matsumura/)
 ---
@@ -35,6 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
 </div>
 
 ---

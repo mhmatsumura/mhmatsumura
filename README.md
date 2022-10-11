@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/dUSkOT39uMA8S1xzh4/giphy-downsized.gif" width="120px"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/mauricio-matsumura/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   

@@ -1,9 +1,9 @@
-<h1>
-  Vamos Codar!!
-  <img src="https://media.giphy.com/media/3o8doZFy4iPd8VBL8I/giphy.gif" width="70px"/>
-</h1>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dUSkOT39uMA8S1xzh4/giphy-downsized.gif" width="120px"/>
+  <h1>
+    Vamos Codar!!
+  </h1>
+  <img src="https://media.giphy.com/media/3o8doZFy4iPd8VBL8I/giphy.gif" width="110px"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mauricio-matsumura/">

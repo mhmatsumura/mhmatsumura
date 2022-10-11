@@ -19,13 +19,13 @@
 ### :fire: Experiências:
 - 🔨 17 anos como eletricista de distribuição.
 
-- :seedling: Estudando Ciência de dados e Kubernetes.
+- :seedling: Estudando Ciência de dados e Quarkus.
 
-- 🎻🚵‍♂️ No meu tempo livre tenho feito aulas de Violino e praticado Mountain Bike.
+- 🎻🚵‍♂️ No tempo livre aulas de Violino e Mountain Bike.
 
 - :mailbox:Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-matsumura/)
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Linguagens e Ferramentas :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

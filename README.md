@@ -16,7 +16,7 @@
 </div>
 
 ---
-### :fire: Sobre mim e Experiências:
+### :fire: Sobre Mim:
 - 🔨 17 anos como eletricista de distribuição.
 
 - :seedling: Estudando Ciência de dados e Quarkus.

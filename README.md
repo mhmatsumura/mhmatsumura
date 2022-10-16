@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/mhmatsumura/imagens/blob/fecd0c604e15d0d1b7c447d7271f9bc17e5b86ac/quarkus_slim.png" title="Git" **alt="Git" width="160" height="30"/>
+  <img src="https://github.com/mhmatsumura/imagens/blob/fecd0c604e15d0d1b7c447d7271f9bc17e5b86ac/quarkus_slim.png" title="Git" **alt="Git" width="160" height="25"/>
   
 </div>
 

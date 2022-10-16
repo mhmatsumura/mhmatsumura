@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>
-    Vamos Codar!!
+    Vamos Codar?
   </h1>
   <img src="https://media.giphy.com/media/3o8doZFy4iPd8VBL8I/giphy.gif" width="110px"/>
 </div>
@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/mhmatsumura/imagens/blob/fecd0c604e15d0d1b7c447d7271f9bc17e5b86ac/quarkus_slim.png" title="Git" **alt="Git" width="160" height="20"/>
+  <img src="https://github.com/mhmatsumura/imagens/blob/fecd0c604e15d0d1b7c447d7271f9bc17e5b86ac/quarkus_slim.png" title="Git" **alt="Git" width="160" height="30"/>
   
 </div>
 

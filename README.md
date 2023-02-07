@@ -17,13 +17,13 @@
 
 ---
 ### :fire: Sobre Mim:
-- 🔨 17 anos como eletricista de distribuição.
-
 - :seedling: Estudando Ciência de dados e Quarkus.
+
+- 🔨 17 anos como eletricista de distribuição.
 
 - 🎻 No tempo livre aulas de Violino e Mountain Bike. 🚵‍
 
-- :mailbox:Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-matsumura/)
+- :mailbox: Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-matsumura/)
 ---
 ### :hammer_and_wrench: Linguagens e Ferramentas :
 
